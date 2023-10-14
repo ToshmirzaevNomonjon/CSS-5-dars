@@ -1,0 +1,25 @@
+
+.navbar-menu{
+    margin: 10px auto;
+    padding: 15px 15px;
+    box-sizing: border-box;
+    position: relative;
+    right: 100px;
+    width: 295px;
+    height: 440px;
+    background-color: whitesmoke;
+}
+.wrap{
+    width: 70px;
+    height: 50px;
+    border: 1px solid orange;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    border-radius: 40px;
+    position: absolute;
+    text-decoration: none;
+    padding-top: 20px;
+    left: 220px;
+    top: 10px;
+}

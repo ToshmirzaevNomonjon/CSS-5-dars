@@ -1,0 +1,11 @@
+.navbar-menu{
+    margin: 10px auto;
+    padding: 15px 15px;
+    box-sizing: border-box;
+    position: relative;
+    right: 100px;
+    width: 350px;
+    height: 200px;
+    background-color: whitesmoke;
+    left: -500px;
+}

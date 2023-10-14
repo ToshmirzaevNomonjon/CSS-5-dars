@@ -1,0 +1,324 @@
+body{
+    background-color: white;
+    width: 1200px;
+    margin: 0;
+}
+.wrap {
+    margin: 10px auto;
+    padding: 15px;
+    box-sizing: border-box;
+    position: relative;
+    right: 100px;
+}
+.btn1{
+    padding-left: 60px;
+    padding-top: 15px;
+    width: 150px;
+    height: 35px;
+    color: white;
+    border: white;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: #31c063;
+    position: relative;
+    left: 50px;
+}
+.btn2 {
+    padding-left: 60px;
+    padding-top: 15px;
+    width: 150px;
+    height: 35px;
+    color: white;
+    border: white;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: #2eb45d;
+    position: relative;
+    left: 50px;
+    top: 5px;
+}
+.btn3 {
+    padding-left: 60px;
+    padding-top: 15px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #25914a;
+    border-radius: 5px;
+    position: relative;
+    top: 10px;
+    left: 50px;
+    width: 150px;
+    height: 35px;
+}
+.wrap2{
+    margin: 10px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn4 {
+    padding-top: 15px;
+    padding-left: 45px;
+    text-decoration: none;
+    color: white;
+    background-color: #2896c2;
+    position: relative;
+    top: -150px;
+    left: 730px;
+    width: 155px;
+    height: 35px;
+}
+.btn5 {
+    padding-top: 15px;
+    padding-left: 45px;
+    text-decoration: none;
+    color: white;
+    background-color: #2da9da;
+    position: relative;
+    top: -145px;
+    left: 730px;
+    width: 155px;
+    height: 35px;
+}
+.wrap3{
+    position: relative;
+    top: -200px;
+}
+.btn6 {
+    padding-top: 15px;
+    padding-left: 45px;
+    text-decoration: none;
+    color: white;
+    background-color: #1b6886;
+    position: relative;
+    top: -140px;
+    left: 730px;
+    width: 155px;
+    height: 35px;
+}
+.WRAP3{
+    margin: 10px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn7{
+    display: inline-block;
+    padding: 11px 21px;
+    text-decoration: none;
+    color: darkgrey;
+    background-color: lightgrey;
+    position: relative;
+    top: -340px;
+    left: 30px;
+    width: 160px;
+    padding-left: 20px;
+
+}
+.btn8{
+    display: inline-block;
+    padding: 11px 22px;
+    text-decoration: none;
+    color: darkgrey;
+    background-color: lightgrey;
+    position: relative;
+    top: -290px;
+    left: -175px;
+    width: 160px;
+    padding-left: 20px;
+}
+.btn9{
+    display: inline-block;
+    padding: 11px 22px;
+    text-decoration: none;
+    color: darkgrey;
+    background-color: lightgrey;
+    position: relative;
+    top: -240px;
+    left: -380px;
+    width: 160px;
+    padding-left: 20px;
+}
+.btn10{
+    display: inline-block;
+    padding: 11px 22px;
+    text-decoration: none;
+    color: darkgrey;
+    background-color: lightgrey;
+    position: relative;
+    top: -190px;
+    left: -587px;
+    width: 160px;
+
+}
+.WRAP4{
+    margin: 10px auto;
+    padding: 15px;
+}
+.clear{
+    clear: both;
+}
+.btn11{
+    display: inline-block;
+    padding: 9px 22px;
+    text-decoration: none;
+    color: darkgrey;
+    border: 2px solid lightgrey;
+    border-radius: 3px;
+    position: relative;
+    top: -420px;
+    left: 260px;
+    width:160px;
+    padding-left: 20px;
+
+}
+.btn12{
+    display: inline-block;
+    padding: 9px 22px;
+    text-decoration: none;
+    color: darkgrey;
+    border: 2px solid lightgrey;
+    border-radius: 3px;
+    position: relative;
+    top: -410px;
+    left: 260px;
+    width:160px;
+    padding-left: 20px;
+}
+.btn13{
+    display: inline-block;
+    padding: 9px 22px;
+    text-decoration: none;
+    color: darkgrey;
+    border: 2px solid lightgrey;
+    border-radius: 3px;
+    position: relative;
+    top: -400px;
+    left: 260px;
+    width: 160px;
+    padding-left: 20px;
+}
+.btn14{
+    display: inline-block;
+    padding: 8px 22px;
+    text-decoration: none;
+    color: darkgrey;
+    border: 2px solid lightgrey;
+    border-radius: 3px;
+    position: relative;
+    top: -390px;
+    left: 260px;
+    width: 160px;
+    padding-left: 20px;
+}
+.WRAP5{
+    margin: 10px auto;
+    padding: 15px;
+    position: relative;
+    left: 230px;
+    top: -198px;
+}
+.clear{
+    clear: both;
+}
+.WRAP6{
+    position: relative;
+    top: -382px;
+    left: 470px;
+}
+
+.btn15{
+    padding: 9px 22px;
+    text-decoration: none;
+    color:black;
+    position: relative;
+    top: -420px;
+    left: 260px;
+    border: 2px solid lightgrey;
+    border-radius: 3px;
+    width: 170px;
+}
+.btn16{
+    padding: 9px 22px;
+    text-decoration: none;
+    color:black;
+    position: relative;
+    top: -410px;
+    left: 260px;
+    border: 2px solid lightgrey;
+    border-radius: 3px;
+    width: 170px;
+}
+.btn17{
+    padding: 9px 22px;
+    text-decoration: none;
+    color:black;
+    position: relative;
+    top: -400px;
+    left: 260px;
+    border: 2px solid lightgrey;
+    border-radius: 3px;
+    width: 170px;
+}
+.btn18{
+    padding: 8px 22px;
+    text-decoration: none;
+    color:black;
+    position: relative;
+    top: -390px;
+    left: 260px;
+    border: 2px solid lightgrey;
+    border-radius: 3px;
+    width: 170px;
+}
+.WRAP6{
+    position: relative;
+    top: -382px;
+    left: 470px;
+}
+
+.btn19{
+    padding: 9px 22px;
+    text-decoration: none;
+    color:black;
+    position: relative;
+    top: -420px;
+    left: 270px;
+    border: 2px solid seagreen;
+    border-radius: 3px;
+    width: 160px;
+}
+.btn20{
+    padding: 9px 22px;
+    text-decoration: none;
+    color:black;
+    position: relative;
+    top: -410px;
+    left: 270px;
+    border: 2px solid seagreen;
+    border-radius: 3px;
+    width: 160px;
+}
+.btn21{
+    padding: 9px 22px;
+    text-decoration: none;
+    color:black;
+    position: relative;
+    top: -400px;
+    left: 270px;
+    border: 2px solid seagreen;
+    border-radius: 3px;
+    width: 160px;
+}
+.btn22{
+    padding: 8px 22px;
+    text-decoration: none;
+    color:black;
+    position: relative;
+    top: -390px;
+    left: 270px;
+    border: 2px solid seagreen;
+    border-radius: 3px;
+    width: 160px;
+}
+
+
+
